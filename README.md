@@ -20,7 +20,7 @@ Before undertaking this project, we studied the ‘Dress Code’ business using 
 ## Diagrams
 
 ### High-Level Architectural Diagram
-![]()
+![](https://github.com/DimanthaWalallawita/DressCode_Web/blob/main/Diagrams/Architecture%20diagram.png)
 
 ### Data Flow Diagram
 ![]()
