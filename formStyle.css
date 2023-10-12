@@ -1,0 +1,76 @@
+body{
+    background-image: url("./Food.jpg");
+    padding: 0;
+    margin: 0;
+}
+
+section{
+    background-color: whitesmoke;
+    width: 35%;
+    margin: 40px auto;
+    border-radius: 4px;
+    border: 5px solid black;
+}
+
+article div{
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 20px;
+}
+
+article label{
+    margin-left: 40px;
+    color: rgb(0,0,22);
+}
+
+article input{
+    width: 35%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 40px;
+    box-sizing: none;
+    background: whitesmoke;
+    border: none;
+    font-size: medium;
+    border-bottom: 1px solid rgb(1,1,15);
+}
+
+::placeholder{
+    color: rgb(92,140,180);
+    font-size: 14px;
+}
+
+article h1{
+    padding-top: 5px;
+    font-size: 25px;
+    text-align: center;
+}
+
+article sup{
+    color: red;
+}
+
+article #checkbox{
+    width: 15px;
+}
+
+article .checkbox{
+    margin-left: 0;
+    color: rgb(1,1,51);
+    font-family: 'Raleway',sans-serif;
+    margin-left: 40px;
+}
+
+article .addpost{
+    margin: 40px 40px 15px 40px;
+    padding-bottom: 30px;
+}
+
+article button{
+    padding: 15px 180px 15px 200px;
+    border: none;
+    border-radius: 20px;
+    background: rgb(31, 161, 74);
+    font-family: 'Raleway',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
