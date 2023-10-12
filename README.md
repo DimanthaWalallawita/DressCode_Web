@@ -26,4 +26,4 @@ Before undertaking this project, we studied the ‘Dress Code’ business using 
 ![](https://github.com/DimanthaWalallawita/DressCode_Web/blob/main/Diagrams/DataFlowDiagram.png)
 
 ## Related Links
-- [Project Page]()
+- [Project Page](https://github.com/DimanthaWalallawita/DressCode_Web)
